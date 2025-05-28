@@ -1,2 +1,18 @@
 Configurations
 Create repo
+Push and Pull
+Fetch and Merge
+Log
+Status
+Diff
+Init
+Commit
+Add
+Resset
+Branch
+Merge
+Rebase
+Stash
+Switch
+Checkout
+
